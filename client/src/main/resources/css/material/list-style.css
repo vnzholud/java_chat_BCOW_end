@@ -1,0 +1,9 @@
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(-my-color-600 0%, -my-color-700 25%, -my-color-800 75%, -my-color-900 100%);
+    -fx-text-fill: white;
+}
+
+.list-cell{
+    -fx-background-color: linear-gradient(-my-color-200 0%, -my-color-300 25%, -my-color-400 75%, -my-color-500 100%);
+    -fx-text-fill: black;
+}

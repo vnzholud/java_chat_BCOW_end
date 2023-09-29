@@ -1,0 +1,5 @@
+@import "material/style-material-desing.css";
+
+.root{
+    -fx-font-size: 16;
+}

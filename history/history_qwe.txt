@@ -1,0 +1,55 @@
+qwerty : ewrw wqerwer wer we
+qwerty : qwer wer wer 
+qwerty : qwer we rwqe rwq
+[ qwerty ] private [ nick1 ] : hello
+[ nick1 ] private [ qwerty ] : hi
+nick1 : bla bla bla
+[ qwerty ] private [ qwerty ] :  qweq weqweq w
+[ qwerty ] private [ qwerty ] : q ewqwe qwe qw
+asd : sadf sdaf 
+asd : as df sda
+nick1 : s dfas df
+qwerty : s adfsd fsda f
+zorro: e rtwert wertw ertwe rt
+zorro: we rtwe rtwert wert wer
+zorro: as dfsad 
+zorro: as dfsad f
+John_Connor : 222222222 2 2 2 22 2 
+zzzzzzzz : as dfsad f
+John_Connor : asdf asd f
+[ aaa ]: 123123123123
+[ aaa ] private [ John_Connor ] : 123123123123
+[ aaa ]: qweqweqweqweqw
+[ John_Connor ] private [ John_Connor ] : fghfghfgh
+[ 123 ]: asdfasdf
+John_Connor : rw erwe rqwerqwer qwe
+John_Connor : t yerytrt
+wasd : ewwwww
+John_Connor : sadf sdf sd
+wasd : sd fsad f
+123 : fd gsdfg sdf
+John_Connor : sdf gsdf g
+wasd : sd fgdfs 
+John_Connor : sdf asdf
+wasd : sd fasd 
+John_Connor : dsf sadf
+wasd : ds fgsdfg
+John_Connor : sdf sdaf asd
+John_Connor : 111111111111111111
+wasd :  asdf sdf sad
+John_Connor : qwe rqwer qewr wer qewr qewr qewr
+John_Connor : 45645645 645 645 6456 456 456 456
+John_Connor : ыва фываыва ыфвацуук уцк
+John_Connor : ц ук цукйцу кцйу
+John_Connor : asdf sadf 
+qwer : a sdf sadfsd
+[ asd ]: zxcv xcv zxcv
+[ asd ]: 11111111122222
+[ John_Connor ]: d fsadf as
+[ John_Connor ]: sadf sadfsd
+[ asd ]: a sdfsad 
+[ John_Connor ]: sadf sd
+[ zzzxxxxcccc ]: sd fsadf sa
+[ qweqwe ]: 1212121212121
+[ asd ]:  sdf asdf asdf
+[ qweqwe ]: s dfsad 

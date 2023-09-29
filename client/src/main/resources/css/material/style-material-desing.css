@@ -1,0 +1,20 @@
+@import "colors/colors.css";
+@import "scrool-bar-style.css";
+@import "list-style.css";
+.root{
+    -fx-background-color: -my-color-50;
+}
+
+.button{
+    -fx-border-color: -my-color-A700;
+    -fx-background-color: linear-gradient(to bottom,-my-color-A100 , -my-color-A700);
+    -fx-border-radius: 1px;
+}
+
+.text-area{
+    -fx-font: 16px "Arial";
+    -fx-text-fill: -my-color-900;
+    -fx-highlight-fill: -my-color-700;
+    -fx-control-inner-background:-my-color-200;
+}
+

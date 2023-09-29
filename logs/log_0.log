@@ -1,0 +1,48 @@
+мар 24, 2021 12:01:35 AM server.Server <init>
+INFO: Server started
+мар 24, 2021 12:02:01 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50822
+мар 24, 2021 12:02:02 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50822 connected with nick: qweqwe
+мар 24, 2021 12:04:46 AM server.Server <init>
+INFO: Server started
+мар 24, 2021 12:05:32 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50882
+мар 24, 2021 12:05:32 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50882 connected with nick: qweqwe
+мар 24, 2021 12:05:34 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50883
+мар 24, 2021 12:05:34 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50883 connected with nick: asd
+мар 24, 2021 12:05:38 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50886
+мар 24, 2021 12:05:38 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50886 connected with nick: zzzxxxxcccc
+мар 24, 2021 12:07:33 AM server.Server <init>
+INFO: Server started
+мар 24, 2021 12:07:44 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50915
+мар 24, 2021 12:07:44 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50915 connected with nick: qweqwe
+мар 24, 2021 12:07:59 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50920
+мар 24, 2021 12:07:59 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50920 connected with nick: asd
+мар 24, 2021 12:08:10 AM server.Server <init>
+INFO: Client connected /127.0.0.1:50922
+мар 24, 2021 12:08:10 AM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:50922 connected with nick: asd
+сен 29, 2023 3:04:19 PM server.Server <init>
+INFO: Server started
+сен 29, 2023 3:05:01 PM server.Server <init>
+INFO: Client connected /127.0.0.1:56892
+сен 29, 2023 3:05:26 PM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:56892 connected with nick: aaa
+сен 29, 2023 3:05:54 PM server.Server <init>
+INFO: Client connected /127.0.0.1:56933
+сен 29, 2023 3:06:18 PM server.ClientHandler lambda$new$0
+INFO: Клиент захотел отключиться
+сен 29, 2023 3:06:42 PM server.Server <init>
+INFO: Client connected /127.0.0.1:56978
+сен 29, 2023 3:06:42 PM server.ClientHandler lambda$new$0
+INFO: client: /127.0.0.1:56978 connected with nick: qqq
